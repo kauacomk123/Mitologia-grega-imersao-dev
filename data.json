@@ -1,0 +1,291 @@
+[
+    
+    {
+      "nome": "Zeus",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Rei dos deuses e dos homens, governante do Monte Olimpo. Deus do céu, do raio e do trovão, conhecido por suas inúmeras aventuras e por manter a ordem e a justiça entre os deuses e os mortais.",
+      "link": "https://pt.wikipedia.org/wiki/Zeus",
+      "tags": [
+        "rei dos deuses",
+        "céu",
+        "raio",
+        "trovão",
+        "Olimpo"
+      ]
+    },
+    {
+      "nome": "Atena",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deusa da sabedoria, da guerra estratégica, da justiça e das artes. Nascida da cabeça de Zeus, é uma das deusas mais respeitadas, protetora da cidade de Atenas e símbolo da civilização e da razão.",
+      "link": "https://pt.wikipedia.org/wiki/Atena",
+      "tags": [
+        "deusa da sabedoria",
+        "guerra estratégica",
+        "justiça",
+        "artes",
+        "Atenas"
+      ]
+    },
+    {
+      "nome": "Hércules",
+      "categoria": "Heróis e Lendas",
+      "descricao": "Um semideus, filho de Zeus e da mortal Alcmena, famoso por sua força sobre-humana. Foi forçado a completar os 'Doze Trabalhos' como penitência, tornando-se um dos heróis mais celebrados da Grécia Antiga.",
+      "link": "https://pt.wikipedia.org/wiki/H%C3%A9racles",
+      "tags": [
+        "herói",
+        "semideus",
+        "força",
+        "doze trabalhos"
+      ]
+    },
+    {
+      "nome": "Aquiles",
+      "categoria": "Heróis e Lendas",
+      "descricao": "O maior guerreiro grego na Guerra de Troia, filho da ninfa Tétis. Sua mãe o mergulhou no rio Estige para torná-lo invulnerável, mas o segurou pelo calcanhar, que se tornou seu único ponto fraco.",
+      "link": "https://pt.wikipedia.org/wiki/Aquiles",
+      "tags": [
+        "herói",
+        "guerra de troia",
+        "invulnerabilidade",
+        "calcanhar"
+      ]
+    },
+    {
+      "nome": "Medusa",
+      "categoria": "Criaturas e Monstros",
+      "descricao": "Uma das três Górgonas, um monstro com serpentes no lugar de cabelos que transformava em pedra quem a olhasse nos olhos. Originalmente uma bela sacerdotisa, foi amaldiçoada por Atena e mais tarde decapitada pelo herói Perseu.",
+      "link": "https://pt.wikipedia.org/wiki/Medusa_(mitologia)",
+      "tags": [
+        "górgona",
+        "monstro",
+        "serpentes",
+        "petrificação"
+      ]
+    },
+    {
+      "nome": "Minotauro",
+      "categoria": "Criaturas e Monstros",
+      "descricao": "Criatura com corpo de homem e cabeça de touro, que habitava o centro do Labirinto em Creta. Nascido da união de Pasífae, rainha de Creta, com um touro branco, era alimentado por jovens atenienses até ser morto por Teseu.",
+      "link": "https://pt.wikipedia.org/wiki/Minotauro",
+      "tags": [
+        "monstro",
+        "labirinto",
+        "Creta",
+        "Teseu"
+      ]
+    },
+    {
+      "nome": "Monte Olimpo",
+      "categoria": "Locais Míticos",
+      "descricao": "A montanha mais alta da Grécia, considerada a morada dos Doze Deuses Olímpicos. Era um lugar de palácios de cristal, onde os deuses viviam, festejavam e governavam o mundo dos mortais, longe de seus olhares.",
+      "link": "https://pt.wikipedia.org/wiki/Monte_Olimpo",
+      "tags": [
+        "morada dos deuses",
+        "montanha",
+        "local mítico"
+      ]
+    },
+    {
+      "nome": "Submundo (Hades)",
+      "categoria": "Locais Míticos",
+      "descricao": "O reino dos mortos, governado pelo deus Hades. Um lugar para onde as almas iam após a morte, dividido em diferentes regiões como os Campos Elísios para os heróis e o Tártaro para os condenados.",
+      "link": "https://pt.wikipedia.org/wiki/Hades_(reino)",
+      "tags": [
+        "reino dos mortos",
+        "Hades",
+        "pós-vida",
+        "local mítico"
+      ]
+    },
+    {
+      "nome": "Poseidon",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deus dos mares, terremotos e cavalos. Irmão de Zeus e Hades, um dos três grandes deuses. Com seu tridente, ele podia agitar as águas, causar tremores e proteger os marinheiros.",
+      "link": "https://pt.wikipedia.org/wiki/Pos%C3%ADdon",
+      "tags": [
+        "deus do mar",
+        "terremotos",
+        "cavalos",
+        "tridente"
+      ]
+    },
+    {
+      "nome": "Hera",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Rainha dos deuses, esposa e irmã de Zeus. Deusa do casamento, das mulheres e da família. Conhecida por seu ciúme e natureza vingativa contra as amantes de Zeus e seus filhos ilegítimos.",
+      "link": "https://pt.wikipedia.org/wiki/Hera",
+      "tags": [
+        "rainha dos deuses",
+        "casamento",
+        "família",
+        "ciúme"
+      ]
+    },
+    {
+      "nome": "Ares",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deus da guerra, representando a violência e a brutalidade dos combates. Filho de Zeus e Hera, era frequentemente desprezado por outros deuses por sua sede de sangue.",
+      "link": "https://pt.wikipedia.org/wiki/Ares",
+      "tags": [
+        "deus da guerra",
+        "violência",
+        "combate"
+      ]
+    },
+    {
+      "nome": "Apolo",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deus da música, artes, conhecimento, profecia e arco e flecha. Filho de Zeus e irmão gêmeo de Ártemis, era o líder das Musas e dirigia o Oráculo de Delfos.",
+      "link": "https://pt.wikipedia.org/wiki/Apolo",
+      "tags": [
+        "música",
+        "artes",
+        "profecia",
+        "sol",
+        "oráculo de Delfos"
+      ]
+    },
+    {
+      "nome": "Ártemis",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deusa da caça, da vida selvagem e da castidade. Protetora das jovens, era uma caçadora habilidosa que vagava pelas florestas com seu arco de prata.",
+      "link": "https://pt.wikipedia.org/wiki/%C3%81rtemis",
+      "tags": [
+        "deusa da caça",
+        "vida selvagem",
+        "castidade",
+        "lua"
+      ]
+    },
+    {
+      "nome": "Afrodite",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deusa do amor, da beleza, do prazer e da procriação. Nascida da espuma do mar, possuía um cinto mágico que a tornava irresistível para deuses e mortais.",
+      "link": "https://pt.wikipedia.org/wiki/Afrodite",
+      "tags": [
+        "deusa do amor",
+        "beleza",
+        "prazer",
+        "procriação"
+      ]
+    },
+    {
+      "nome": "Dionísio",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deus do vinho, das festas, da loucura ritual e do êxtase. O mais jovem dos olímpicos, viajava pelo mundo ensinando o cultivo da videira.",
+      "link": "https://pt.wikipedia.org/wiki/Dion%C3%ADsio",
+      "tags": [
+        "deus do vinho",
+        "festas",
+        "êxtase",
+        "teatro"
+      ]
+    },
+    {
+      "nome": "Perseu",
+      "categoria": "Heróis e Lendas",
+      "descricao": "Herói que decapitou a Górgona Medusa usando um escudo polido para evitar seu olhar petrificante. Também resgatou a princesa Andrômeda de um monstro marinho.",
+      "link": "https://pt.wikipedia.org/wiki/Perseu",
+      "tags": [
+        "herói",
+        "Medusa",
+        "Andrômeda"
+      ]
+    },
+    {
+      "nome": "Teseu",
+      "categoria": "Heróis e Lendas",
+      "descricao": "Rei mítico de Atenas, famoso por matar o Minotauro no Labirinto de Creta com a ajuda de Ariadne e seu fio.",
+      "link": "https://pt.wikipedia.org/wiki/Teseu",
+      "tags": [
+        "herói",
+        "Minotauro",
+        "Atenas",
+        "labirinto"
+      ]
+    },
+    {
+      "nome": "Odisseu",
+      "categoria": "Heróis e Lendas",
+      "descricao": "Rei de Ítaca e herói da Guerra de Troia, conhecido por sua astúcia. Sua longa e árdua jornada de dez anos para casa é narrada na Odisseia.",
+      "link": "https://pt.wikipedia.org/wiki/Odisseu",
+      "tags": [
+        "herói",
+        "astúcia",
+        "Guerra de Troia",
+        "Odisseia"
+      ]
+    },
+    {
+      "nome": "Cérbero",
+      "categoria": "Criaturas e Monstros",
+      "descricao": "O cão de guarda de três cabeças de Hades, que vigiava os portões do Submundo para impedir que os mortos escapassem.",
+      "link": "https://pt.wikipedia.org/wiki/C%C3%A9rbero",
+      "tags": [
+        "cão de três cabeças",
+        "guardião",
+        "submundo",
+        "monstro"
+      ]
+    },
+    {
+      "nome": "Hidra de Lerna",
+      "categoria": "Criaturas e Monstros",
+      "descricao": "Um monstro aquático com corpo de serpente e múltiplas cabeças que se regeneravam em dobro quando cortadas. Foi derrotada por Hércules em seu segundo trabalho.",
+      "link": "https://pt.wikipedia.org/wiki/Hidra_de_Lerna",
+      "tags": [
+        "monstro",
+        "serpente",
+        "regeneração",
+        "Hércules"
+      ]
+    },
+    {
+      "nome": "Sereias",
+      "categoria": "Criaturas e Monstros",
+      "descricao": "Criaturas que atraíam marinheiros para a morte com seu canto encantador, fazendo seus navios colidirem contra as rochas.",
+      "link": "https://pt.wikipedia.org/wiki/Sereia",
+      "tags": [
+        "monstro",
+        "canto",
+        "marinheiros",
+        "navegação"
+      ]
+    },
+    {
+      "nome": "Cronos",
+      "categoria": "Titãs",
+      "descricao": "Líder dos Titãs que governou durante a Idade de Ouro. Engoliu seus filhos para evitar uma profecia de que seria destronado, mas foi enganado por sua esposa Reia, que salvou Zeus.",
+      "link": "https://pt.wikipedia.org/wiki/Cronos",
+      "tags": [
+        "titã",
+        "tempo",
+        "rei dos titãs",
+        "idade de ouro"
+      ]
+    },
+    {
+      "nome": "Prometeu",
+      "categoria": "Titãs",
+      "descricao": "Um Titã conhecido por sua inteligência e por ser um campeão da humanidade. Famoso por roubar o fogo dos deuses e dá-lo aos humanos, um ato pelo qual foi severamente punido por Zeus.",
+      "link": "https://pt.wikipedia.org/wiki/Prometeu",
+      "tags": [
+        "titã",
+        "fogo",
+        "humanidade",
+        "punição"
+      ]
+    },
+    {
+      "nome": "Hefesto",
+      "categoria": "Deuses Olímpicos",
+      "descricao": "Deus do fogo, dos metais, da metalurgia e dos artesãos. O ferreiro dos deuses, que forjava suas armas e armaduras em sua oficina vulcânica. Era manco e foi expulso do Olimpo por sua mãe, Hera.",
+      "link": "https://pt.wikipedia.org/wiki/Hefesto",
+      "tags": [
+        "deus do fogo",
+        "ferreiro",
+        "artesão"
+      ]
+    }
+
+]
